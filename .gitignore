@@ -97,3 +97,10 @@ LOCK
 LOG*
 CURRENT
 MANIFEST-*
+
+# QtCreator generated files:
+caffe.config
+caffe.creator
+caffe.files
+caffe.includes
+

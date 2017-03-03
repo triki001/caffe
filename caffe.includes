@@ -1,0 +1,6 @@
+build
+build/include/caffe/proto
+build/install/include/caffe/proto
+build/install/include/caffe/util
+include/caffe/util
+src/gtest
